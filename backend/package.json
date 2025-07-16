@@ -1,9 +1,9 @@
 {
   "name": "backend",
   "version": "1.0.0",
-  "description": "",
+  "description": "This value is currenty empty.",
   "license": "ISC",
-  "author": "ayush sahu",
+  "author": "dhruv mehta",
   "type": "module",
   "main": "index.js",
   "scripts": {
